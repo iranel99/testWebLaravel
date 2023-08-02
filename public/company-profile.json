@@ -1,0 +1,67 @@
+{
+  "pages": {
+    "index": {
+      "section": [
+        {
+          "key": "main_banner",
+          "components": {
+            "title": "Kobo Kanaeru",
+            "description": "Kobo Kanaeru merupakan seorang Vtuber dari agensi Hololive yang berasal dari Indonesia",
+            "image": "any_image1.jpg",
+            "links": [
+                {
+                "link": "Pelajari"
+            },
+            {
+                "link": "Dukungan"
+            }
+            ]
+          }
+        },
+        {
+          "key": "why_us",
+          "components": {
+            "title": "Memiliki banyak talenta",
+            "description": "Kobo memiliki banyak talenta, seperti bermain musik. Dia dapat memainkan alat musik seperti gitar, piano, tamborine, drum, violin(masih latihan), dan lainnya. Berikut merupakan lagu yang diciptakan oleh Kobo Kanaeru",
+            "image": "any_image2.jpg"
+          }
+        },
+        {
+          "key": "services",
+          "components": {
+            "title": "Hal yang tidak disukai Kobo",
+            "description": "Kobo memiliki hal yang tidak disukai, meskipun kobo tampil di layar dalam bentuk 2D, selalu ceria dan lucu. Kobo juga merupakan seorang manusia yang memiliki sifat manusiawi",
+            "image": "any_image3.jpg",
+            "services": [
+              {
+                "key": "service_1",
+                "icon": "any_icon1.png",
+                "name": "Matematika",
+                "description": "Ya benar sekali Matematika. Kobo sangat tidak suka sama pelajaran MATEMATIKA, dia menyebutkan di stream `Orang gila mana yang suka Matematika`"
+              },
+              {
+                "key": "service_2",
+                "icon": "any_icon2.png",
+                "name": "Sayuran",
+                "description": "Yap sayuran, dia seperti anak kecil saja ya"
+              },
+              {
+                "key": "service_3",
+                "icon": "any_icon3.png",
+                "name": "Laba-laba",
+                "description": "Selanjutnya adalah laba-laba, hal ini masuk akal dikarenakan ada beberapa jenis hewan arthropoda dengan bentuk yang sangat mengerikan. Apalagi hewan tersebut memiliki ukuran sebesar kepala manusia"
+              }
+            ]
+          }
+        },
+        {
+          "key": "subscription",
+          "components": {
+            "title": "MEMBERSHIP",
+            "description": "Mari bergabung dengan KOBOLONIMBUS, dengan bergabung anda akan mendapatkan beberapa manfaat seperti dapat bermain langsung bersama KOBO KANAERU, mendapatkan relasi sesama fans, mendapatkan konten eksklusif hanya di membership"
+          }
+        }
+      ]
+    }
+  }
+}
